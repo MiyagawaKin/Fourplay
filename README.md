@@ -2,8 +2,8 @@
 
 
 **在线玩**：https://miyagawakin.github.io/Fourplay/
-**中文名**：基基波契数列计算器
-**仓库**：https://github.com/MiyagawaKin/Fourplay
+**中文名**：基基波契数列计算器<br>
+**仓库**：https://github.com/MiyagawaKin/Fourplay<br>
 **灵感来源**：[itorr/homo](https://github.com/itorr/homo)（恶臭数字论证器）
 
 ---
